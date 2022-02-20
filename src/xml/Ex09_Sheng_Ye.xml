@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<clientes>
+    <cliente>
+        <nombre>dani</nombre>
+        <edad>19</edad>
+    </cliente>
+    <cliente>
+        <nombre>sheng</nombre>
+        <edad>25</edad>
+    </cliente>
+    <cliente>
+        <nombre>jose</nombre>
+        <edad>35</edad>
+    </cliente>
+    <cliente>
+        <nombre>juanjo</nombre>
+        <edad>87</edad>
+    </cliente>
+    <cliente>
+        <nombre>pampo</nombre>
+        <edad>97</edad>
+    </cliente>
+</clientes>

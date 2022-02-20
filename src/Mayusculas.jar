@@ -1,0 +1,26 @@
+import java.io.BufferedReader;
+import java.io.IOException;
+import java.io.InputStreamReader;
+
+/**
+ * PACKAGE_NAME
+ * Nombre_project: AccesBase
+ * Mayusculas
+ * Created by: sheng
+ * Date : 21/10/2021
+ * Description:
+ **/
+public class Mayusculas {
+
+    public static void main(String[] args) throws IOException {
+
+        InputStreamReader entrada = new InputStreamReader(System.in);
+        BufferedReader teclado = new BufferedReader(entrada);
+        String cadena = teclado.readLine();
+
+        System.out.println(cadena.toUpperCase());
+
+    }
+
+}
+

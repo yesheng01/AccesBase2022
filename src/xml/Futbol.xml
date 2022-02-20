@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<futbol>
+	<seleccion nombre="España">
+		<liga nombre="Liga Santander">
+			<equipo nombre="Mallorca">
+				<jugador nombre="Kubo" />
+			</equipo>
+			<equipo nombre="Real Madrid">
+				<jugador nombre="Benzema" />
+			</equipo>
+			<equipo nombre="Barcelona">
+				<jugador nombre="Ansu Fati" />
+			</equipo>
+			<equipo nombre="Real Sociedad" />
+			<equipo nombre="Sevilla"/>
+			<equipo nombre="Osasuna"/>
+			<equipo nombre="At.Madrid" />
+			<equipo nombre="Ath.Bilbao" />
+		</liga>
+	</seleccion>
+	<seleccion nombre="Italia">
+		<liga nombre="Scudetto">
+			<equipo nombre="Milan" />
+			<equipo nombre="Juventus">
+				<jugador nombre="Morata"></jugador>
+			</equipo>
+			<equipo nombre="Sampdoria" />
+		</liga>
+	</seleccion>
+	<seleccion nombre="Alemania" />
+	<seleccion nombre="Argentina" />
+	<seleccion nombre="Francia" />
+	<seleccion nombre="Inglaterra" />
+</futbol>

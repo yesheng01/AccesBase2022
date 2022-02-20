@@ -1,0 +1,1 @@
+﻿(Get-Content "C:\Users\sheng\Origin.txt" | Select-String -Pattern "i|I" -AllMatches).Matches.Count

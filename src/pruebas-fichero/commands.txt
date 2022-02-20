@@ -1,0 +1,10 @@
+ El volumen de la unidad C es Windows
+ El n£mero de serie del volumen es: C46C-9E8C
+
+ Directorio de C:\users
+
+11/10/2021  13:55    <DIR>          .
+07/10/2021  08:41    <DIR>          Public
+08/10/2021  16:35    <DIR>          sheng
+               0 archivos              0 bytes
+               3 dirs  155.277.070.336 bytes libres

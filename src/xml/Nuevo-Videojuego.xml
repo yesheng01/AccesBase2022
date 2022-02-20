@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<videojuegos>
+        
+    
+    
+    <videojuego crea_en="20/12/2018">
+                
+        <titulo>OutNo</titulo>
+                
+        <creador>Javier noseque</creador>
+                
+        <sinopsis>Juego de Terror</sinopsis>
+                
+        <plataforma>PC/PS4</plataforma>
+            
+    </videojuego>
+        
+    <videojuego crea_en="21/06/2020">
+                
+        <titulo>Detroit</titulo>
+                
+        <creador>Detroit neowhgman</creador>
+                
+        <sinopsis>Juego de interracion</sinopsis>
+                
+        <plataforma>PC/PS4/Xbox</plataforma>
+            
+    </videojuego>
+        
+    <videojuego crea_en="05/09/2021">
+                
+        <titulo>Pokemon espada</titulo>
+                
+        <creador>Nintendo</creador>
+                
+        <sinopsis>Juego de interactuar y lucha</sinopsis>
+                
+        <plataforma>Nintendo Switch</plataforma>
+            
+    </videojuego>
+        
+    <videojuego crea_en="18,10/2018">
+                
+        <titulo>Until Dawn</titulo>
+                
+        <creador>Dawana Noales</creador>
+                
+        <sinopsis>Juego de terror</sinopsis>
+                
+        <plataforma>PC</plataforma>
+            
+    </videojuego>
+    
+    <videojuego crea_en="20/12/2018">
+        <titulo>OutNo</titulo>
+        <creador>Javier noseque</creador>
+        <sinopsis>Juego de Terror</sinopsis>
+        <plataforma>PC/PS4</plataforma>
+    </videojuego>
+    <videojuego crea_en="21/06/2020">
+        <titulo>Detroit</titulo>
+        <creador>Detroit neowhgman</creador>
+        <sinopsis>Juego de interracion</sinopsis>
+        <plataforma>PC/PS4/Xbox</plataforma>
+    </videojuego>
+    <videojuego crea_en="05/09/2021">
+        <titulo>Pokemon espada</titulo>
+        <creador>Nintendo</creador>
+        <sinopsis>Juego de interactuar y lucha</sinopsis>
+        <plataforma>Nintendo Switch</plataforma>
+    </videojuego>
+    <videojuego crea_en="18,10/2018">
+        <titulo>Until Dawn</titulo>
+        <creador>Dawana Noales</creador>
+        <sinopsis>Juego de terror</sinopsis>
+        <plataforma>PC</plataforma>
+    </videojuego>
+</videojuegos>
